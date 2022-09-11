@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Jain</h1>
-<h3 align="center">A passionate React.js Developer in for complex scalable web and mobile apps, @akshaymemail is my instrctor from begining to now!</h3>
+<h3 align="center">A passionate React.js Developer in for complex scalable web and mobile apps, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/akshaymemail/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/akshaymemail">@akshaymemail</a> is my instrctor from begining to now!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsidd06&label=Profile%20views&color=0e75b6&style=flat" alt="jsidd06" /> </p>
 
