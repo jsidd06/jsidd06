@@ -42,7 +42,9 @@
 
 # WONDER PILLARS TECHNOLOGY PVT.LTD
 
-## FIXCEL PROJECT 09/2021 – 11/2021<br>● It is a Construction Company Project. I Created Various Modules User-interfaces and their functioning.<br>● Main technologies used: React.js, JavaScript, Node.js, API.<br> STOCK HISAB PROJECT 11/2021 – 12/2022<br>● Worked on the project Stock Market. The project started from scratch and it aimed to build the interactive user interface.<br>● Main technologies used: React.js, Core Ui, Html5, CSS.
+### FIXCEL PROJECT 09/2021 – 11/2021<br>● It is a Construction Company Project. I Created Various Modules User-interfaces and their functioning.<br>● Main technologies used: React.js, JavaScript, Node.js, API.<br>
+
+### STOCK HISAB PROJECT 11/2021 – 12/2022<br>● Worked on the project Stock Market. The project started from scratch and it aimed to build the interactive user interface.<br>● Main technologies used: React.js, Core Ui, Html5, CSS.
 
 ### VANTAAN TAXI PROJECT 12/2022 – 04/2022<br>● Worked with the development of software for taxi information systems.<br>● Resolved many bugs in various Models. Mainly as a technical-Engineer, I was a part of the team whose responsibility was the software core functionality.<br>● This gave me invaluable experience in designing and implementing large logic and user interface.<br>● Main technologies used: React.js, JavaScript, Node.js, API.
 
@@ -60,11 +62,11 @@
 
 <br>
 
-## PORTEL PROJECT 08/2022 – 12/2022<br>● It is based on Employee mood structure. What is the daily employee strategy you can this portal?<br>● I have made a full project by myself and I have made UI Design on React Bootstrap and added functionality to show a graph report and casual data list report and a person can export the report in an excel sheet.<br>● Main technologies used: React.js, API, HTML5, CSS, JavaScript, React Bootstrap. Excel Sheet, Google analytics graph.
+### PORTEL PROJECT 08/2022 – 12/2022<br>● It is based on Employee mood structure. What is the daily employee strategy you can this portal?<br>● I have made a full project by myself and I have made UI Design on React Bootstrap and added functionality to show a graph report and casual data list report and a person can export the report in an excel sheet.<br>● Main technologies used: React.js, API, HTML5, CSS, JavaScript, React Bootstrap. Excel Sheet, Google analytics graph.
 
 <br>
 
-## MY BILL WALLET PROJECT 12/2022 – 01/2023<br>● It is a private wallet where users can add a bus, train, or flight ticket and get a discount on flip-kart coupons.<br>● I have a UI design and implement the APIs. <br>● Main technologies used: React Native, API’S.
+### MY BILL WALLET PROJECT 12/2022 – 01/2023<br>● It is a private wallet where users can add a bus, train, or flight ticket and get a discount on flip-kart coupons.<br>● I have a UI design and implement the APIs. <br>● Main technologies used: React Native, API’S.
 
 <br><br>
 
