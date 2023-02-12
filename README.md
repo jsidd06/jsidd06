@@ -4,6 +4,10 @@
 
 <br>
 
+![I am a Software Engineer](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+
+<br>
+
 # 💻 Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
@@ -14,7 +18,7 @@
 - 🌱 I’m currently learning Reactjs, React Native,Nodesjs
 - 👯 I’m looking to collaborate on Triford
 - 🤔 I’m looking for help with Triford
-- 💬 Ask me about react.js, next.js, react-naitve, android, ios, redux, node, express, mongodb, mysql, javascript, css, html.
+- 💬 Ask me about react.js, react-naitve, android, ios, redux, node, express, mongodb, javascript, css, html.
 - 📫 How to reach me: jsidd06@gmail.com
 - ⚡ Fun fact: I think i'm funny 😛
 
@@ -53,10 +57,12 @@
 # AARA TECHNOLOGY PVT.LTD
 
 ## POS PROJECT 07/2022 – 08/2022<br>● It is an E-commerce website and I have made a full UI Design using React strap.<br>● Add functionality to show the product list and select a product that a user can want to buy and add in-store and buy it after buying the product get the total balance slip and see the order history.<br>● Main technologies used: React.js, API, HTML5, CSS.
+
 <br>
 
 ## PORTEL PROJECT 08/2022 – 12/2022<br>● It is based on Employee mood structure. What is the daily employee strategy you can this portal?<br>● I have made a full project by myself and I have made UI Design on React Bootstrap and added functionality to show a graph report and casual data list report and a person can export the report in an excel sheet.<br>● Main technologies used: React.js, API, HTML5, CSS, JavaScript, React Bootstrap. Excel Sheet, Google analytics graph.
-<br> 
+
+<br>
 
 ## MY BILL WALLET PROJECT 12/2022 – 01/2023<br>● It is a private wallet where users can add a bus, train, or flight ticket and get a discount on flip-kart coupons.<br>● I have a UI design and implement the APIs. <br>● Main technologies used: React Native, API’S.
 
