@@ -40,35 +40,83 @@
 
 <br><br>
 
-# WONDER PILLARS TECHNOLOGY PVT.LTD
+# Resume
 
-### FIXCEL PROJECT 09/2021 – 11/2021<br>● It is a Construction Company Project. I Created Various Modules User-interfaces and their functioning.<br>● Main technologies used: React.js, JavaScript, Node.js, API.<br>
+```diff
++ DANK GLOBAL [02/2023-Present]
+$ JOIN GLOBAL
+● Use Material UI for Design/
+● Use Axios for API integratio
+● Main technologies used: Typescript, React.js, API, HTML5, CSS.
+```
 
-### STOCK HISAB PROJECT 11/2021 – 12/2022<br>● Worked on the project Stock Market. The project started from scratch and it aimed to build the interactive user interface.<br>● Main technologies used: React.js, Core Ui, Html5, CSS.
+```diff
++AARA TECHNOLOGY PVT.LTD [07/2022-01/2023]
 
-### VANTAAN TAXI PROJECT 12/2022 – 04/2022<br>● Worked with the development of software for taxi information systems.<br>● Resolved many bugs in various Models. Mainly as a technical-Engineer, I was a part of the team whose responsibility was the software core functionality.<br>● This gave me invaluable experience in designing and implementing large logic and user interface.<br>● Main technologies used: React.js, JavaScript, Node.js, API.
+$ POS PROJECT 07/2022 – 08/2022
 
-<br><br>
+● It is an E-commerce website and I have made a full UI Design using React strap.
 
-# QWERTY CODE PVT.LTD
+● Add functionality to show the product list and select a product that a user can want to buy and add in-store and buy it after buying the product get the total balance slip and see the order history.
 
-### BAAP NETWORK PROJECT 04/2022 – 07/2022<br>● It is a Crypto Servies android mobile app project. I can provide the functionality to buy crypto coins.<br>● Baap Network Project full name BAAP ASSITS ANALYSIS’S PEOPLE NETWORK.<br>● Now it’s available on the Google play store.<br>● Main technologies used: React Native, API.
+● Main technologies used: React.js, API, HTML5, CSS.
 
-<br><br>
+$ PORTEL PROJECT 08/2022 – 12/2022
 
-# AARA TECHNOLOGY PVT.LTD
+● It is based on Employee mood structure. What is the daily employee strategy you can this portal?
 
-## POS PROJECT 07/2022 – 08/2022<br>● It is an E-commerce website and I have made a full UI Design using React strap.<br>● Add functionality to show the product list and select a product that a user can want to buy and add in-store and buy it after buying the product get the total balance slip and see the order history.<br>● Main technologies used: React.js, API, HTML5, CSS.
+● I have made a full project by myself and I have made UI Design on React Bootstrap and added functionality to show a graph report and casual data list report and a person can export the report in an excel sheet.
 
-<br>
+● Main technologies used: React.js, API, HTML5, CSS, JavaScript, React Bootstrap. Excel Sheet, Google analytics graph.
 
-### PORTEL PROJECT 08/2022 – 12/2022<br>● It is based on Employee mood structure. What is the daily employee strategy you can this portal?<br>● I have made a full project by myself and I have made UI Design on React Bootstrap and added functionality to show a graph report and casual data list report and a person can export the report in an excel sheet.<br>● Main technologies used: React.js, API, HTML5, CSS, JavaScript, React Bootstrap. Excel Sheet, Google analytics graph.
+$ MY BILL WALLET PROJECT 12/2022 – 01/2023
 
-<br>
+● It is a private wallet where users can add a bus, train, or flight ticket and get a discount on flip-kart coupons.
 
-### MY BILL WALLET PROJECT 12/2022 – 01/2023<br>● It is a private wallet where users can add a bus, train, or flight ticket and get a discount on flip-kart coupons.<br>● I have a UI design and implement the APIs. <br>● Main technologies used: React Native, API’S.
+● I have a UI design and implement the APIs.
 
-<br><br>
+● Main technologies used: React Native, API’S.
+```
+
+```diff
++QWERTY CODE PVT.LTD [04/2022-07/2022]
+
+$ BAAP NETWORK PROJECT 04/2022 – 07/2022
+
+● It is a Crypto Servies android mobile app project. I can provide the functionality to buy crypto coins.
+
+● Baap Network Project full name BAAP ASSITS ANALYSIS’S PEOPLE NETWORK.
+
+● Now it’s available on the Google play store.
+
+● Main technologies used: React Native, API.
+```
+
+```diff
++WONDER PILLARS TECHNOLOGY PVT.LTD [09/2021-11/2021]
+
+$ FIXCEL PROJECT 09/2021 – 11/2021
+
+● It is a Construction Company Project. I Created Various Modules User-interfaces and their functioning.
+
+● Main technologies used: React.js, JavaScript, Node.js, API.
+
+$ STOCK HISAB PROJECT 11/2021 – 12/2022
+
+● Worked on the project Stock Market. The project started from scratch and it aimed to build the interactive user interface.
+
+● Main technologies used: React.js, Core Ui, Html5, CSS.
+
+$ VANTAAN TAXI PROJECT 12/2022 – 04/2022
+
+● Worked with the development of software for taxi information systems.
+
+● Resolved many bugs in various Models. Mainly as a technical-Engineer, I was a part of the team whose responsibility was the software core functionality.
+
+● This gave me invaluable experience in designing and implementing large logic and user interface.
+
+● Main technologies used: React.js, JavaScript, Node.js, API.
+```
 
 ## EDUCATION<br>● BCA PASSED (2017-2020)<br>● 12th PASSED–UP BOARD<br>● 10th PASSED–UP BOARD<br><br>
 
