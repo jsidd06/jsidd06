@@ -34,7 +34,7 @@
 
 <br><br>
 
-# 💫 ABOUT MY TOTAL WORK EXPERIENCE IS 1.5 YEARS.
+# 💫 ABOUT MY WORK EXPERIENCE .
 
 ### Hi I am a Software engineer and I have a wide variety of technical <br>skills ranging from writing beautiful and clean code to composing high quality<br>3D interactive experiences. During my career I’ve most closely worked with JavaScript,<br>and react is my most commonly used tool. I excel at problem-solving and seeing the big picture.Also, I have the ability to focus on those things that really matter to get the job done.<br>As a Developer, my drivers are simplicity, real-world-tested best practices, and uncompromised quality.
 
