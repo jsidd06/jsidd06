@@ -45,9 +45,9 @@
 ```diff
 + DANK GLOBAL [02/2023-Present]
 $ DANK GLOBAL
-•	Work with Axios for API integration.
-•	Use Follow up Atoms code structures.
-•	Main technologies used: Typescript, React native.
+● Work with Axios for API integration
+● Use Follow up Atoms code structures
+● Main technologies used: Typescript, React native.
 
 $ JOIN GLOBAL
 ● Use Material UI for Design/
