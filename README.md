@@ -30,7 +30,7 @@
 
 <br>
 
-![GitHub metrics](https://metrics.lecoq.io/jsidd06) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsidd06)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://streak-stats.demolab.com/?user=jsidd06) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsidd06&show_icons=true&count_private=true)
+![GitHub metrics](https://metrics.lecoq.io/jsidd06) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsidd06&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://streak-stats.demolab.com/?user=jsidd06&theme=algolia&border_radius=20) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsidd06&show_icons=true&count_private=true&theme=algolia&border_radius=20)
 
 <br><br>
 
