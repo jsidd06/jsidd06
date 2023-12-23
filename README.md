@@ -43,7 +43,17 @@
 # Resume
 
 ```diff
-+ DANK GLOBAL [02/2023-Present]
++ COMPLETUMHEALTH [05/2023-Present]
+$ Mobile App (React Native)
+● Created multiple screens using react-navigation.
+● Created a new UI design.
+● Added API integration using Axios.
+● Used React Native paper Library.
+● Redux Saga.
+```
+
+```diff
++ DANK GLOBAL [02/2023-05/2023]
 $ DANK GLOBAL
 ● Work with Axios for API integration
 ● Use Follow up Atoms code structures
