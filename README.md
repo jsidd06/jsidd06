@@ -108,7 +108,7 @@ for a construction company project.
 
 ```
 
-## EDUCATION<br>● BCA PASSED (2017-2020)<br>● 12th PASSED–UP BOARD<br>● 10th PASSED–UP BOARD<br><br>
+## EDUCATION<br>● BCA PASSED (2017-2020)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsidd06)](https://github.com/ryo-ma/github-profile-trophy)
 
