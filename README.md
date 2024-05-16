@@ -43,7 +43,7 @@
 # Resume
 
 ```diff
-+ Front-end Developer | CompletumHealth | 07/2023-02/2024
++ Front-end Developer | CompletumHealth | 08/2023-02/2024
 
 $ Project Name:- Sahej Mobile App
 
