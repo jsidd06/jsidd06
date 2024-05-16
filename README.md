@@ -36,99 +36,76 @@
 
 # 💫 ABOUT MY WORK EXPERIENCE.
 
-### Dynamic Software Engineer with a proven track record of delivering high-quality solutions. Proficient in a diverse range of technical skills, from crafting elegant code to creating immersive 3D experiences. Adept at leveraging JavaScript and specializing in React, with a keen eye for problem-solving and a commitment to excellence. Skilled in simplifying complex concepts and implementing real-world best practices to achieve optimal results.
+### Dynamic Software Engineer with a proven track record in high-quality solutions. Skilled in JavaScript, React, elegant code, and 3D experiences. Adept at problem-solving and simplifying complex concepts.
 
 <br><br>
 
 # Resume
 
 ```diff
-+ Front-end Developer | CompletumHealth | 05/2023-02/2024
-$ Mobile App (React Native)
-● Developed and maintained a mobile application using React Native, incorporating multiple screens with seamless navigation via react-navigation.
-● Spearheaded UI redesign efforts, enhancing user experience and engagement.
-● Implemented API integration utilizing Axios, ensuring efficient data retrieval and management.
-● Leveraged React Native Paper Library and Redux Saga for streamlined development processes.
++ Front-end Developer | CompletumHealth | 07/2023-02/2024
+
+$ Project Name:- Sahej Mobile App
+
+1. Developed and maintained a mobile application using React Native, incorporating multiple screens with seamless navigation via react-navigation.
+
+2. Spearheaded UI redesign efforts, enhancing user experience and engagement.
+
+3. Implemented API integration utilizing Axios, ensuring efficient data retrieval and management.
+
+4. Leveraged React Native Paper Library and Redux Saga for streamlined development processes.
+
+5. Technologies utilized: React Native, Redux, React.js, Rest API, Figma.
+
 ```
 
 ```diff
-+ Front-end Developer | Dank Global | 02/2023-05/2023
-$ DANK GLOBAL
-● Collaborated on projects involving API integration using Axios and adhered to established code structures.
-● Utilized TypeScript and React Native to deliver robust solutions for diverse client requirements.
-● Technologies utilized: Typescript, React native.
++ Front-end Developer | Dank Global | 02/2023-07/2023
 
-$ JOIN GLOBAL
-● Employed Material UI for designing intuitive user interfaces.
-● Integrated APIs seamlessly using Axios for enhanced functionality and performance.
-● Technologies utilized: TypeScript, React.js, HTML5, CSS.
+$ Project Name:- Mobile App | Dank Global
+
+1. Collaborated on projects involving API integration using Axios
+and adhered to established code structures.
+
+2. TypeScript and React Native to deliver robust solutions for diverse client requirements.
+
+3. Technologies utilized: React Native, Rest API.
+
+$ Project Name:- Web APP | Join Global
+
+1. Material UI for designing intuitive user interfaces.
+
+2. Integrated APIs seamlessly using Axios for enhanced functionality and performance.
+
+3. Technologies utilized: React.js, Rest API.
 ```
 
 ```diff
-+Front-end Developer | Aara Technology Pvt. Ltd | 07/2022-01/2023
++Front-end Developer | Wonder Pillars Technology Pvt. Ltd | 06/2021-02/2023
 
-$ My Bill Wallet Project 12/2022 – 01/2023
+$ Project Name:- Web App | Vantaan Taxi
 
-● Architected a private wallet application facilitating seamless integration with various transportation services.
+1. Engaged in the development of software for taxi information systems, resolving numerous bugs across various models.
 
-● Designed user interfaces and implemented API functionalities to enable ticket management and discount features.
+2. Collaborated closely with the team to ensure the core functionality of the software.
 
-● Technologies utilized: React Native, APIs.
+3. Gained valuable experience in designing and implementing complex logic and user interfaces.
 
-$ Portel Project 08/2022 – 12/2022
+4. Technologies utilized: React.js, Rest API, HTML5, CSS.
 
-● Led the development of an employee mood-tracking portal, encompassing UI design and data visualization features.
+$ Project Name:- Web App | Stock Hisab
 
-● Enabled report generation and export functionalities, enhancing user insights and productivity.
+1. Played a key role in developing a stock market project from inception, focusing on building an interactive user interface.
 
-● Technologies utilized: React.js, API, HTML5, CSS, JavaScript, React Bootstrap, Excel Sheet, Google Analytics.
+2. Technologies utilized: React.js, Rest API, HTML5, CSS.
 
-$ Pos Project 07/2022 – 08/2022
+$ Project Name:- Web App | Fixcel
 
-● Designed and developed a comprehensive UI for an e-commerce website using React Strap.
+1. Contributed to the creation of various user interface modules
+for a construction company project.
 
-● Implemented product listing, selection, and purchase functionalities, along with order history tracking.
+2. Technologies utilized: React.js, Rest API, HTML5, CSS.
 
-● Technologies utilized: React.js, API, HTML5, CSS.
-```
-
-```diff
-+Front-end Developer | Qwerty Codes | 04/2022 – 07/2022
-
-$ BAAP NETWORK PROJECT 04/2022 – 07/2022
-
-● Spearheaded the development of a crypto services Android mobile application, facilitating the buying of crypto coins.
-
-● Named Baap Network Project, short for "BAAP Assets Analysis and People Network."
-
-● Successfully launched the application on the Google Play Store.
-
-● Technologies utilized: React Native, API.
-```
-
-```diff
-+Front-end Developer | Wonder Pillars Technology Pvt. Ltd | 09/2021-04/2022
-$ Vantaan Taxi Project 12/2022 – 04/2022
-
-● Engaged in the development of software for taxi information systems, resolving numerous bugs across various models.
-
-● Collaborated closely with the team to ensure the core functionality of the software.
-
-● Gained valuable experience in designing and implementing complex logic and user interfaces.
-
-● Technologies utilized: React.js, JavaScript, Node.js, API.
-
-$ Stock Hisab Project 11/2021 – 12/2022
-
-● Played a key role in developing a stock market project from inception, focusing on building an interactive user interface.
-
-● Technologies utilized: React.js, Core Ui, HTML5, CSS.
-
-$ Fixcel Project 09/2021 – 11/2021
-
-● Contributed to the creation of various user interface modules for a construction company project.
-
-● Technologies utilized: React.js, JavaScript, Node.js, API.
 ```
 
 ## EDUCATION<br>● BCA PASSED (2017-2020)<br>● 12th PASSED–UP BOARD<br>● 10th PASSED–UP BOARD<br><br>
